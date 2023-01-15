@@ -1,0 +1,14 @@
+<svg id="_5437083_instagram_social_media_ig_social_icon" data-name="5437083_instagram_social media_ig_social_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.251" height="39.969" viewBox="0 0 38.251 39.969">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.11" y1="0.873" x2="0.937" y2="0.081" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset="0.427" stop-color="#ed0013"/>
+      <stop offset="0.613" stop-color="#db004a"/>
+      <stop offset="0.877" stop-color="#c30092"/>
+      <stop offset="1" stop-color="#ba00af"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.137" y1="0.87" x2="1.007" y2="0.048" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="Path_78" data-name="Path 78" d="M164.3,130.4H145.307a9.618,9.618,0,0,0-9.607,9.607v20.5a1.431,1.431,0,0,0,2.863,0v-20.5a6.747,6.747,0,0,1,6.744-6.744h18.975a6.781,6.781,0,0,1,6.807,6.744v20.756a6.781,6.781,0,0,1-6.807,6.744H145.672a1.431,1.431,0,1,0,0,2.863h18.609a9.653,9.653,0,0,0,9.67-9.607V140.007A9.629,9.629,0,0,0,164.3,130.4Z" transform="translate(-135.7 -130.4)" fill="url(#linear-gradient)"/>
+  <path id="Path_79" data-name="Path 79" d="M199.993,174.263a10.572,10.572,0,1,0,10.577,10.609A10.609,10.609,0,0,0,199.993,174.263Zm0,18.323a7.73,7.73,0,1,1,7.73-7.73A7.843,7.843,0,0,1,199.993,192.585Zm12.12-19.5a1.686,1.686,0,1,0-1.686,1.686A1.687,1.687,0,0,0,212.112,173.086Z" transform="translate(-180.859 -164.879)" fill="url(#linear-gradient-2)"/>
+</svg>
